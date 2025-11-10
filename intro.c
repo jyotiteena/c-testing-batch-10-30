@@ -2,6 +2,5 @@
 int main(){
 
 
-    printf("first prg");
-    printf("Second prg");
+   printf("final code");
 }
